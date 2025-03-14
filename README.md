@@ -4,8 +4,8 @@ This project is developed using the Java programming language and is designed to
 
 <h2>Features</h2>
 <ul>
-<li>Automatic calculation of total cost</li><br>
-<li>Efficient billing process</li><br>
+<li>Automatic calculation of total cost</li>
+<li>Efficient billing process</li>
 </ul>
 
 <h2>Programming Language</h2> 
